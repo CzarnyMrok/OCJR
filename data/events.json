@@ -1,0 +1,1 @@
+[null,{"name":"join","temp":"","event-type":"0","_id":"btEXG","actions":[]},{"name":"JoinRole","temp":"user","event-type":"6","_id":"diPFk","actions":[{"member":"2","varName2":"${tempVars(\"user\")}","role":"4","varName":"role","name":"Add Member Role"},{"comment":"RawData by CzarnyMrok","color":"#00ff40","name":"Comment"}]}]
